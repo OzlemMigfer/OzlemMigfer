@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Yazılım Mühendisliği 4.sınıf öğrencisiyim. Şu an React Native üzerine çalışıyorum..
+I am a 4th year software engineering student. I am currently working on React Native.
 
 
 ## 🌐 Socials:
