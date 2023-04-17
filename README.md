@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-# 
 I am a 4th year software engineering student. I am currently working on React Native.
 
 
