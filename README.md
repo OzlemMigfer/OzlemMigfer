@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 4th year software engineering student. I am currently working on React Native.
+I am a software engineer. I am currently working on mobile application development with React Native.
 
 
 ## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zlem-mi%C4%9Ffer/) 
